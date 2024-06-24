@@ -22,9 +22,6 @@ Franco() {
         herramientas = {"Git", "GitHub", "Docker"};
         analisisDeDatos = {"Excel", "Alteryx", "PowerBI"};
 };
-
-
- 
+```
 ![Uruguay](https://github.com/BlazeFuzi0nz/BlazeFuzi0nz/assets/127358434/9e213520-9c71-4a8a-a33f-08c4cf5913f6)
-
 
